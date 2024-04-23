@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 625b0dce2f639734d98e0ad67accfa70, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  antiAliasing: 1
+  soundFX: 1
+  music: 1
+  DanceClips:
+  - {fileID: 11400000, guid: 0ba8463bc28ffa941b3a7d7461d6b29f, type: 2}
+  - {fileID: 11400000, guid: 401f86c0ba74beb4dbb5629c9b0db38a, type: 2}
+  - {fileID: 11400000, guid: 8a3a19cb447b03d4a803034a84792216, type: 2}
+  - {fileID: 11400000, guid: b50c723c9f39104419cc388db5f276ab, type: 2}
+  - {fileID: 11400000, guid: 376e5e91a4726ad4fb042abd8508a072, type: 2}
+  - {fileID: 11400000, guid: d3c3ee48f3080b946aff127ffb0411e8, type: 2}
+  - {fileID: 11400000, guid: 48302c4875611b340afafa65a17c2424, type: 2}
+  - {fileID: 11400000, guid: cf872c85d6c8352479bd91314e259bb0, type: 2}
+  - {fileID: 11400000, guid: 7a4cccd4bfce3ff43a6edf602f4b1a05, type: 2}
+  - {fileID: 11400000, guid: 28983b2983517b342a0c16845283cdd7, type: 2}
+  - {fileID: 11400000, guid: 94d7349a5e1752847961f1962bbf38b8, type: 2}
+  - {fileID: 11400000, guid: 3f5216bfd40b05c43968b5e21869100b, type: 2}
+  - {fileID: 11400000, guid: 5a7f57118a2762f459e10060b3bec12c, type: 2}
+  - {fileID: 11400000, guid: d39dd8c7e3a16354db4f61aadfeb5d30, type: 2}
+  - {fileID: 11400000, guid: 2513bd554ae967846a7521abab26ed04, type: 2}
+  - {fileID: 11400000, guid: d3b3333e8c7bd724288eb547e1c91d0b, type: 2}
+  - {fileID: 11400000, guid: 4372c7b4cdaded54f97c626691488100, type: 2}
+  - {fileID: 11400000, guid: 34faba9df4f9d27418230555abf55e92, type: 2}
+  - {fileID: 11400000, guid: 0faf5c12a71778641b96eafc1f9b6d24, type: 2}
+  - {fileID: 11400000, guid: 4744da695d75abe4880bca9325dd5a65, type: 2}
+  - {fileID: 11400000, guid: 7f8376177fbced240a4b261e2b422d12, type: 2}
+  - {fileID: 11400000, guid: 353bdfadc76c88349a1fd0cc74a4e48f, type: 2}
+  - {fileID: 11400000, guid: a0639c11a23e67945b6551e2629b82c4, type: 2}
+  - {fileID: 11400000, guid: 61cfcdcb839afb246a3afc9f537c827f, type: 2}
+  - {fileID: 11400000, guid: 00b031510a953e84691278e71c70bdb1, type: 2}
+  - {fileID: 11400000, guid: 4f3a783842a9df54b98e0a4496dc7754, type: 2}
+  - {fileID: 11400000, guid: e0558b44cd1c6104593c4423f1b82102, type: 2}
+  - {fileID: 11400000, guid: 263f1d7d4068b774a853e97e5b212f6a, type: 2}
+  - {fileID: 11400000, guid: ec972e61147d58e4fb8cc57e82dffba6, type: 2}
+  - {fileID: 11400000, guid: 989a9edbb84cf26409878f532321cb3f, type: 2}
+  - {fileID: 11400000, guid: 0bfbb88429e78b541818352e97c6c12a, type: 2}
+  IsGameWon: 0
+  ThisRunScore: 0
+  currentGameLevel: 0

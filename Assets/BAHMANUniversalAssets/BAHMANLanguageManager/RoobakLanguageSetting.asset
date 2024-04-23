@@ -1,0 +1,330 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edce2664e6bc0ea4e87cf570c6deb88c, type: 3}
+  m_Name: RoobakLanguageSetting
+  m_EditorClassIdentifier: 
+  _enableTranslation: 1
+  LanguagesName:
+  - Farsi
+  currentLanguage: 0
+  AllWords:
+  - WordTag: Start Level
+    WordTranslations:
+    - "\u0634\u0631\u0648\u0639 \u0645\u0631\u062D\u0644\u0647"
+  - WordTag: Hard
+    WordTranslations:
+    - "\u0633\u062E\u062A"
+  - WordTag: Rate Us
+    WordTranslations:
+    - "\u0627\u0645\u062A\u06CC\u0627\u0632 \u062F\u0647\u06CC"
+  - WordTag: Easy
+    WordTranslations:
+    - "\u0622\u0633\u0627\u0646"
+  - WordTag: Select Deck
+    WordTranslations:
+    - "\u0627\u0646\u062A\u062E\u0627\u0628 \u067E\u06CC\u06A9\u0633\u0644"
+  - WordTag: End Game
+    WordTranslations:
+    - "\u067E\u0627\u06CC\u0627\u0646 \u0628\u0627\u0632\u06CC"
+  - WordTag: This Round
+    WordTranslations:
+    - "\u0627\u0645\u062A\u06CC\u0627\u0632 \u0634\u0645\u0627"
+  - WordTag: Best Score Yet
+    WordTranslations:
+    - "\u0628\u0647\u062A\u0631\u06CC\u0646 \u0631\u06A9\u0648\u0631\u062F"
+  - WordTag: Try Again
+    WordTranslations:
+    - "\u062F\u0648\u0628\u0627\u0631\u0647"
+  - WordTag: Loading
+    WordTranslations:
+    - "\u0634\u06A9\u06CC\u0628\u0627 \u0628\u0627\u0634\u06CC\u062F ..."
+  - WordTag: Home
+    WordTranslations:
+    - "\u062E\u0627\u0646\u0647"
+  - WordTag: Exit
+    WordTranslations:
+    - "\u062E\u0631\u0648\u062C"
+  - WordTag: Options
+    WordTranslations:
+    - "\u062A\u0646\u0638\u06CC\u0645\u0627\u062A"
+  - WordTag: Anti-Aliasing
+    WordTranslations:
+    - "\u0628\u0647\u0628\u0648\u062F \u062A\u0635\u0648\u06CC\u0631"
+  - WordTag: Sound FX
+    WordTranslations:
+    - "\u062C\u0644\u0648\u0647 \u0635\u0648\u062A\u06CC"
+  - WordTag: Level
+    WordTranslations:
+    - "\u0645\u0631\u062D\u0644\u0647"
+  - WordTag: New Best Score!
+    WordTranslations:
+    - "\u0631\u06A9\u0648\u0631\u062F \u062C\u062F\u06CC\u062F!"
+  - WordTag: Normal
+    WordTranslations:
+    - "\u0645\u0639\u0645\u0648\u0644\u06CC"
+  - WordTag: Out Of Stock
+    WordTranslations:
+    - "\u0627\u062A\u0645\u0627\u0645 \u0645\u0648\u062C\u0648\u062F\u06CC"
+  - WordTag: Purchase Failed!
+    WordTranslations:
+    - "\u062E\u0631\u06CC\u062F \u0646\u0627\u0645\u0648\u0641\u0642"
+  - WordTag: Purchase Succeeded!
+    WordTranslations:
+    - "\u062E\u0631\u06CC\u062F \u0645\u0648\u0641\u0642"
+  - WordTag: Shop is not ready!
+    WordTranslations:
+    - "\u0645\u0627\u06CC\u06A9\u062A \u0622\u0645\u0627\u062F\u0647 \u0646\u06CC\u0633\u062A!"
+  - WordTag: You do not have enough to activate. Buy one?
+    WordTranslations:
+    - "\u062E\u0631\u06CC\u062F \u0627\u0632 \u0645\u0627\u06CC\u06A9\u062A\u061F"
+  - WordTag: Locked
+    WordTranslations:
+    - "\u0642\u0641\u0644 \u0634\u062F\u0647"
+  - WordTag: Submit Score
+    WordTranslations:
+    - "\u0627\u0631\u0633\u0627\u0644 \u0627\u0645\u062A\u06CC\u0627\u0632"
+  - WordTag: Global Ranks
+    WordTranslations:
+    - "\u0631\u062A\u0628\u0647 \u0628\u0646\u062F\u06CC"
+  - WordTag: 'Name:'
+    WordTranslations:
+    - "\u0646\u0627\u0645:"
+  - WordTag: Submit
+    WordTranslations:
+    - "\u0627\u0631\u0633\u0627\u0644"
+  - WordTag: No Data!
+    WordTranslations:
+    - "\u0641\u0627\u0642\u062F \u0627\u0637\u0644\u0627\u0639\u0627\u062A!"
+  - WordTag: Score Submitted Successfuly
+    WordTranslations:
+    - "\u062B\u0628\u062A \u0627\u0645\u062A\u06CC\u0627\u0632 \u0645\u0648\u0641\u0642
+      \u0628\u0648\u062F!"
+  - WordTag: Score Submission Failed!
+    WordTranslations:
+    - "\u062B\u0628\u062A \u0627\u0645\u062A\u06CC\u0627\u0632 \u0646\u0627\u0645\u0648\u0641\u0642
+      \u0628\u0648\u062F!"
+  - WordTag: Data Recieved Successfuly
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u0627\u0645\u062A\u06CC\u0627\u0632
+      \u0645\u0648\u0641\u0642 \u0628\u0648\u062F!"
+  - WordTag: Data Recieve Failed!
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u0627\u0645\u062A\u06CC\u0627\u0632
+      \u0646\u0627\u0645\u0648\u0641\u0642 \u0628\u0648\u062F!"
+  - WordTag: Check Your Internet Connection.
+    WordTranslations:
+    - "\u0627\u062A\u0635\u0627\u0644 \u0627\u06CC\u0646\u062A\u0631\u0646\u062A
+      \u0631\u0627 \u0628\u0631\u0631\u0633\u06CC \u0646\u0645\u0627\u06CC\u06CC\u062F!"
+  - WordTag: Do You Want To Quit Game Or Go To Home Screen?
+    WordTranslations:
+    - "\u062E\u0631\u0648\u062C \u0627\u0632 \u0628\u0627\u0632\u06CC \u06CC\u0627
+      \u0631\u0641\u062A\u0646 \u0628\u0647 \u0635\u0641\u062D\u0647 \u0627\u0648\u0644\u061F"
+  - WordTag: Yes
+    WordTranslations:
+    - "\u0628\u0644\u0647"
+  - WordTag: No
+    WordTranslations:
+    - "\u062E\u06CC\u0631"
+  - WordTag: Enter Your Name
+    WordTranslations:
+    - "\u0646\u0627\u0645 \u062E\u0648\u062F \u0631\u0627 \u0648\u0627\u0631\u062F
+      \u06A9\u0646\u06CC\u062F"
+  - WordTag: Music
+    WordTranslations:
+    - "\u0645\u0648\u0633\u06CC\u0642\u06CC"
+  - WordTag: Roobak
+    WordTranslations:
+    - "\u0631\u0648\u0628\u064E\u06A9"
+  - WordTag: Let's Go
+    WordTranslations:
+    - "\u0628\u0632\u0646 \u0628\u0631\u06CC\u0645!"
+  - WordTag: Change Dance
+    WordTranslations:
+    - "\u062A\u063A\u06CC\u06CC\u0631 \u0631\u0642\u0635"
+  - WordTag: Select
+    WordTranslations:
+    - "\u0627\u0646\u062A\u062E\u0627\u0628"
+  - WordTag: Other Products
+    WordTranslations:
+    - "\u0633\u0627\u06CC\u0631 \u0645\u062D\u0635\u0648\u0644\u0627\u062A"
+  - WordTag: Do you want to visit our other products?
+    WordTranslations:
+    - "\u062A\u0645\u0627\u06CC\u0644 \u062F\u0627\u0631\u06CC \u0627\u0632 \u0633\u0627\u06CC\u0631
+      \u0645\u062D\u0635\u0648\u0644\u0627\u062A \u0645\u0627 \u062F\u06CC\u062F\u0646
+      \u06A9\u0646\u06CC\u061F"
+  - WordTag: Whould you like to rate us five star?
+    WordTranslations:
+    - "\u062F\u0648\u0633\u062A \u062F\u0627\u0631\u06CC \u0628\u0647 \u0645\u0627
+      \u0646\u0638\u0631 \u067E\u0646\u062C \u0633\u062A\u0627\u0631\u0647 \u0628\u062F\u06CC\u061F"
+  - WordTag: Donate
+    WordTranslations:
+    - "\u062D\u0645\u0627\u06CC\u062A \u0645\u0627\u0644\u06CC"
+  - WordTag: Donate to help us improve our works!
+    WordTranslations:
+    - "\u0628\u0631\u0627\u06CC \u06A9\u0645\u06A9 \u0628\u0647 \u0628\u0647\u0628\u0648\u062F
+      \u06A9\u06CC\u0641\u06CC\u062A \u06A9\u0627\u0631 \u0627\u0632 \u0645\u0627
+      \u062D\u0645\u0627\u06CC\u062A \u0645\u0627\u0644\u06CC \u06A9\u0646\u06CC\u062F!"
+  - WordTag: Welcome to another product of Helen Game Factory
+    WordTranslations:
+    - "\u0628\u0647 \u06CC\u06A9\u06CC \u062F\u06CC\u06AF\u0631 \u0627\u0632 \u0633\u0627\u062E\u062A\u0647
+      \u0647\u0627\u06CC \u06A9\u0627\u0631\u062E\u0627\u0646\u0647 \u0628\u0627\u0632\u06CC
+      \u0633\u0627\u0632\u06CC \u0647\u0644\u0646 \u062E\u0648\u0634 \u0622\u0645\u062F\u06CC\u062F!"
+  - WordTag: Welcome
+    WordTranslations:
+    - "\u0633\u0644\u0627\u0645"
+  - WordTag: Level $$$ Cleared
+    WordTranslations:
+    - "\u0645\u0631\u062D\u0644\u0647 $$$ \u062A\u0645\u0627\u0645 \u0634\u062F"
+  - WordTag: Send To ...
+    WordTranslations:
+    - "\u0627\u0631\u0633\u0627\u0644 \u0628\u0631\u0627\u06CC ..."
+  - WordTag: 'Play Roobak:   https://myket.ir/app/$$$'
+    WordTranslations:
+    - "\u0628\u0627\u0632\u06CC \u0631\u0648\u0628\u06A9 \u0631\u0648 \u0628\u0627\u0632\u06CC
+      \u06A9\u0646: https://myket.ir/app/$$$"
+  - WordTag: Roobak Game Link
+    WordTranslations:
+    - "\u0644\u06CC\u0646\u06A9 \u0628\u0627\u0632\u06CC \u0631\u0648\u0628\u06A9"
+  - WordTag: Breakdance Footwork
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0628\u0631\u06A9"
+  - WordTag: Breakdance Freeze
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0628\u0631\u06A9 \u0642\u0641\u0644\u06CC"
+  - WordTag: Breathing Idle
+    WordTranslations:
+    - "\u0639\u0627\u062F\u06CC"
+  - WordTag: Chicken Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0645\u0631\u063A\u06CC"
+  - WordTag: Hip Hop Dancing Hard
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0633\u062E\u062A"
+  - WordTag: Hip Hop Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E"
+  - WordTag: Hokey Pokey
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u0627\u06A9\u06CC \u067E\u0627\u06A9\u06CC"
+  - WordTag: House Dancing Easy
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u0627\u0648\u0633 \u0622\u0633\u0627\u0646"
+  - WordTag: House Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u0627\u0648\u0633"
+  - WordTag: Locking Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0642\u0641\u0644\u06CC"
+  - WordTag: Macarena Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0645\u0627\u06A9\u0627\u0631\u0646\u0627"
+  - WordTag: Northern Soul Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0622\u0645\u0631\u06CC\u06A9\u0627\u06CC \u0634\u0645\u0627\u0644\u06CC"
+  - WordTag: Persian Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0627\u06CC\u0631\u0627\u0646\u06CC"
+  - WordTag: Robot Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0631\u0628\u0627\u062A\u06CC"
+  - WordTag: Salsa Dancing two
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0627\u0644\u0633\u0627 \u062F\u0648"
+  - WordTag: Salsa Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0627\u0644\u0633\u0627"
+  - WordTag: Samba Dancing Medium
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0627\u0645\u0628\u0627 \u0645\u062A\u0648\u0633\u0637"
+  - WordTag: Samba Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0627\u0645\u0628\u0627"
+  - WordTag: Shuffling
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0634\u0627\u0641\u0644"
+  - WordTag: Slide Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0644\u063A\u0632\u0646\u062F\u0647"
+  - WordTag: Snake Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0645\u0627\u0631\u06CC"
+  - WordTag: Swing Dancing four
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0648\u06CC\u06CC\u0646\u06AF \u0686\u0647\u0627\u0631"
+  - WordTag: Swing Dancing three
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0648\u06CC\u06CC\u0646\u06AF \u0633\u0647"
+  - WordTag: Swing Dancing two
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0648\u06CC\u06CC\u0646\u06AF \u062F\u0648"
+  - WordTag: Swing Dancing
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0633\u0648\u06CC\u06CC\u0646\u06AF"
+  - WordTag: Tut Hip Hop Dance Loose
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u062A\u0627\u062A
+      \u0634\u0644"
+  - WordTag: Tut Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u062A\u0627\u062A"
+  - WordTag: Wave Hip Hop Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0645\u0648\u062C\u06CC"
+  - WordTag: Wave Hip Hop
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0647\u06CC\u067E \u0647\u0627\u067E \u0645\u0648\u062C\u06CC
+      \u062F\u0648"
+  - WordTag: Ymca Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u0648\u0627\u06CC \u0627\u0645 \u0633\u06CC \u0627\u06CC"
+  - WordTag: Twist Dance
+    WordTranslations:
+    - "\u0631\u0642\u0635 \u062A\u0648\u06CC\u06CC\u0633\u062A"
+  - WordTag: Game Won
+    WordTranslations:
+    - "\u0628\u0631\u0646\u062F\u0647"
+  - WordTag: Game Loose
+    WordTranslations:
+    - "\u0628\u0627\u0632\u0646\u062F\u0647"
+  - WordTag: Claim
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A"
+  - WordTag: Unlocks At Level
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u062F\u0631 \u0633\u0637\u062D"
+  - WordTag: Or
+    WordTranslations:
+    - "\u06CC\u0627"
+  - WordTag: Purchase
+    WordTranslations:
+    - "\u062E\u0631\u06CC\u062F \u0627\u0632 \u0645\u0627\u06CC\u06A9\u062A"
+  - WordTag: Whatch Ad to Unlock
+    WordTranslations:
+    - "\u0646\u0645\u0627\u06CC\u0634 \u062A\u0628\u0644\u06CC\u063A"
+  - WordTag: Unlock Success
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u0645\u0648\u0641\u0642"
+  - WordTag: Unlock Failed
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u0646\u0627\u0645\u0648\u0641\u0642"
+  - WordTag: Use Alternate Unlock?
+    WordTranslations:
+    - "\u062F\u0631\u06CC\u0627\u0641\u062A \u062C\u0627\u06CC\u06AF\u0632\u06CC\u0646\u061F"
+  - WordTag: Pay to Unlock Instead?
+    WordTranslations:
+    - "\u067E\u0631\u062F\u0627\u062E\u062A \u0627\u0632 \u0637\u0631\u06CC\u0642
+      \u0645\u0627\u06CC\u06A9\u062A \u0648 \u062F\u0631\u06CC\u0627\u0641\u062A
+      \u0631\u0642\u0635\u061F"
+  - WordTag: Show Ad to Unlock Instead?
+    WordTranslations:
+    - "\u0628\u0631\u0627\u06CC \u062F\u0631\u06CC\u0627\u0641\u062A \u062A\u0628\u0644\u06CC\u063A
+      \u0646\u0645\u0627\u06CC\u0634 \u062F\u0627\u062F\u0647 \u0634\u0648\u062F\u061F"

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7062276a84aa62b4dab703268c23749d, type: 3}
+  m_Name: Aftermath
+  m_EditorClassIdentifier: 
+  _SceneName: 3
+  _SceneMusics:
+  - {fileID: 8300000, guid: 5520a14621d14444387f90a0bdba15e0, type: 3}
+  - {fileID: 8300000, guid: acff3411aa269b24ca38057a91d05784, type: 3}
+  _GlobalMusicVolume: 1
+  _ShufflePlay: 1
+  _StopMusicGradually: 0
+  _FadeInterval: 0.1
+  _SilenceBetweenClips: 10
+  _StopAfterListEnded: 0
+  _RepeatSelectedSound: 0
+  _ShowSoundNameAsMessage: 0
